@@ -1,0 +1,24 @@
+{
+  "name": "aexonic",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "install": "^0.13.0",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.3",
+    "mongoose-aggregate-paginate-v2": "^1.0.6",
+    "morgan": "~1.9.1",
+    "npm": "^8.9.0",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0",
+    "passport-local-mongoose": "^7.0.0"
+  }
+}
